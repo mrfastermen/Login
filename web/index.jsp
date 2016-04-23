@@ -20,6 +20,6 @@
             <input type="submit" value="Iniciar Sesion" id="btniniciar"/>
         </form>
         <br>
-        No tienes una cuenta... <a href="registro.jsp">Registrarme</a>
+        No tienes una cuenta... <a href="registro.jsp">Registrarme aqui</a>
     </body>
 </html>
